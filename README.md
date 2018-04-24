@@ -3,9 +3,9 @@
 1. What are the different methods to call a function in R?
 
 2. The lazy evaluation of a function means, the argument is evaluated only if it is evaluated only if it is used
-inside the body of the function. Say True or False. -
+inside the body of the function. Say True or False. 
 
-      FALSE
+         FALSE
 3. State True or False:
 
        a. Insights driven from descriptive analytics is not meaningful. - FALSE
